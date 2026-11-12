@@ -1,19 +1,3 @@
-<div align="center">
-
-# 📉 Customer Churn Intelligence
-
-**Predict which bank customers will leave — and understand *why*.**
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Keras-ANN-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Charts-3F4F75?logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
-
-</div>
-
----
-
 ## 📌 Overview
 
 Most churn projects stop at *"this customer will leave."* A bank can't act on that alone — it needs to know **the reason**, so it can decide what to do.
